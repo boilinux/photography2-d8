@@ -20,5 +20,6 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
+  - 'photography/tasveer-css'
   - 'photography/global-styling'
-  - 'photography/bootstrap-scripts'
+  - 'photography/tasveer-scripts'

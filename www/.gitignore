@@ -48,3 +48,6 @@ themes/server/.sass-cache
 .vagrant
 *.sql.gz
 *.sql
+
+main-file
+themes/photography/.sass-cache

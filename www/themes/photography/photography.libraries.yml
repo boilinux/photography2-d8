@@ -1,3 +1,21 @@
+tasveer-css:
+    css:
+        theme:
+            tasveer/css/bootstrap.min.css: {}
+            tasveer/css/normalize.css: {}
+            tasveer/css/icomoon.css: {}
+            tasveer/css/font-awesome.min.css: {}
+            tasveer/css/cubeportfolio.css: {}
+            tasveer/css/jgallery.min.css: {}
+            tasveer/css/pogoslider.css: {}
+            tasveer/css/prettyPhoto.css: {}
+            tasveer/css/slick-theme.css: {}
+            tasveer/css/slick.css: {}
+            tasveer/css/transitions.css: {}
+            tasveer/style.css: {}
+            tasveer/css/color.css: {}
+            tasveer/css/responsive.css: {}
+
 global-styling:
   css:
     theme:
@@ -17,3 +35,23 @@ bootstrap-scripts:
     bootstrap/assets/javascripts/bootstrap/scrollspy.js: {}
     bootstrap/assets/javascripts/bootstrap/tab.js: {}
     bootstrap/assets/javascripts/bootstrap/transition.js: {}
+
+tasveer-scripts:
+    js:
+        # tasveer/js/vendor/jquery-library.js: {}
+        tasveer/js/vendor/bootstrap.min.js: {}
+        tasveer/js/jquery.cubeportfolio.min.js: {} 
+        tasveer/js/tinycolor-0.9.16.min.js: {} 
+        tasveer/js/jquery.scrollTo.min.js: {} 
+        tasveer/js/jquery.pogoslider.js: {} 
+        tasveer/js/touchswipe.min.js: {} 
+        tasveer/js/jgallery.min.js: {} 
+        tasveer/js/jquery.vide.js: {} 
+        tasveer/js/prettyPhoto.js: {} 
+        tasveer/js/slick.min.js: {} 
+        tasveer/js/parallax.js: {} 
+        tasveer/js/countTo.js: {} 
+        tasveer/js/appear.js: {} 
+        tasveer/js/gmap3.js: {} 
+        tasveer/js/themefunction.js: {} 
+        tasveer/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js: {}
